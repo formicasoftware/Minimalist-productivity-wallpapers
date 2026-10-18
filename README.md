@@ -1,5 +1,5 @@
 # ✨ Minimalist Productivity Wallpapers
-![Обои с зелёными электронными часами](images/название-файла.png)
+![Обои с зелёными электронными часами](preview.png)
 
 Give your desktop a fresh, calming look with a collection of beautiful **4K wallpapers** made for focus, creativity, and everyday inspiration.
 
